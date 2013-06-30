@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="512" height="18" tilewidth="8" tileheight="8">
+ <tileset firstgid="1" name="area01-Tileset" tilewidth="8" tileheight="8">
+  <image source="area01-Tileset.png" width="192" height="176"/>
+ </tileset>
+ <layer name="Ground" width="512" height="18">
+  <data encoding="base64" compression="zlib">
+   eJztnVmvFEUUx6tvfFCBK+IORuOS4PaojyJqiAtucIcXNXwHlRcVzGV3Q4x+A9/cMG4sAZQEfXD7AG6AcWOJSoK+uP8rUyf3ULd6pmdq7ZnzC/9eprvrVJ1Tp7qKCYNS9WyF1kO7oV1sb/M9dEGl1IXQxQ5dAi2EFkH4oxabvdZ90P3QA9CfRvp4BbSywfXl0D1Gh4zo/N4Gz09BS6BboDtQoR3YL6u6mmpQfmW1/yKmJr4o7flB4+fr/1GL/6D+C2GfpPP1crbfqbr5Wg2puvy375P8z5u/MeJvxz5V/xmV9sf2Xyo2QBuhm2F0SY3hH6AfoZ+gow4dg45DJ1S37tdU4dowiYKOqK4OG9H5dw2e75g6LYXeMrrb1K/ToHx9H2//z0xNfFHa84PErwrgf19Ki/+g/gthn+sd6F3oPeh9x/VBZee/656S879f+zrs+E5s7rJi04b8jxV/in3K/jNK7Y/pvxRMq5n5x55AZZ4JXYsGPJiqEX1Ypbr+XKpmj7+rMtarVEqLny+p48/9RzZC2OdjxmVqZv3zthp+7JlWp+c/vzYspfUf8j/FgHzftvwPHf8Q69dpFb7/tKX9bfOfDc03aP4RirOg61DuQ4Xkv6Zu/BVmU2L8fEkZf+4/ns++9u2xg9Y/tB4adOyx89++Piyl9h/+/m8joeOv5bN+jdV/2tL+tvhvUw9thuZbWgut87D3KPQY9IpHGaHR/qRxl8//hdmUGD9fUsaf+4/ns699nZNPqfo8HuTzcct/jfb3rdDqliZ+rPj7Xg/df9rW/rb4LyVrclfAgtYky41KXJ+URGnx8yVl/HWxa9Tp7/5x6n+8/SWh63MbdHvuigiCkJSzoTlqZjy+HpuHSxughGjkjn9u+4IgCOPMXGgeNAndIGPv2JEz/pXDvnRBQRAEQRAEQRAEQRAEQRAEQRAEQRCE8eTxSqlnoeeg5+XLY6HFrEf/fRX6HcenVHf/R+Y6CYIglMhB6An278a3YfOCzAGElrAXfXUn9KXpwxuweQ16HXoDehPaYa59gs2n0GeB+/cKlHcFtBfH+6D9Pe5dGNa0IGRjHH9/wJdfME68lLsSjI+gJ1Gno0b6eLu8/6ORO/5kn/+GQFt+/8fFPjRgF/SIecdvxGYTtBnaAm2FnjbXvsHmW+jzwP17Jcq70tjgxzZn4MNF2F8a1rw3pf7+jfz+Tzv8ZzNvQqkb0dfPx/G5CeyFZA7qPnei/tyXX+GXl9XM2Evl5zrXOo7NMSP+ea/nYxHb/7ntU/xzYfc/l/7B5l/oHLR7S597XbLz374ekv0ocLej39bpEDZf1FSiX77UsQy6ytSBjq92PEBz7e2Vu/xc+R86/lp1sQ/Rf5qMT21uf2z/peAmGDoP+wUq7fjtA8Vb+29yYvZ5CH6DX06a/O9nL/Y59YcTVXcOQPMA+jyFPzip7eWwT/HPBe9/Lv2Fzd/Qf9D8PuNkL9n5H2v8+QAF7unRHluHsTlSU4lh4z+F8jqmDnTccdj4GFqLz18sLP9Dx1///zUU+2H//5pe/afp+NTW9sf2Xypo/kHzERf8+7uvHOLf2ekitkEfVuGly9b+Ih8tcJz72Cf43w/2sxf7nI7r3v9Nng8Vv9j+zx1/KofHP6T/hrXPReMjrX9c9wwiO/9d94xL/lM569hxKfkfI/6+698m/WeU2x/Tfymw5zC0t+Hf333tEP/Ojup/oAorKrffvHFY+9znfK2Qa95vt6fu/d/k+RDxi+3/EuJP4vEP5T8f+ySdr3rdQ3u9/hl27UHlufLfvm9c8p/0jGpuL1X+h45/iPVrk/4zqu2P7b9Q/A+lI9UG
+  </data>
+ </layer>
+</map>

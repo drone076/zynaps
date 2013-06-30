@@ -1,0 +1,4 @@
+<config>
+	<input file = "area01.tmx"/>
+	<keep file = "area01-Tileset.png"/>
+</config>

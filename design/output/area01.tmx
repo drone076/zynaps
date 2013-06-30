@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="512" height="18" tilewidth="8" tileheight="8">
+ <tileset firstgid="1" name="area01-Tileset" tilewidth="8" tileheight="8">
+  <image source="area01-Tileset.png" width="192" height="176"/>
+ </tileset>
+ <layer name="Ground" width="512" height="18">
+  <data encoding="base64" compression="zlib">
+   eJztnVmP1TYUx50RD2WbUtYCVasWJNZHeIReihBbWwozvADiOwB9KZvYoRQKgm/QN1oWdWMRqwQ8tLQfgB3EPohFAl7Y/9aNdT2+yVwndhwnOT/pLyc3sY99jk9iz5XuMBbPVmg9dBQ6IpUqt6AhAWNDoY8jNBwaAY0M6vePCRp1v4XmQd9BL0Px4/nQAo3rc6GvQ10LJc6/0ajfAU2FvoRmol8HUc4I6urQaF8d/zBJOr7wrX7S+Jn6v2zxT+o/G/YFPF8/k8rDLDpfdaH8L0b+y/GyFX819jba0Jk/ZRm/S/9lyQZoIzQF/p4a4XPObegOdBe6H6EHUBf0MLx/bEw7aWhHWzdYXddDifObGvU7w7IGHQo1J2hc02lfHv89STq+8K1+0viZ+t8U3+Kf1H827Mv8Af0J/QX93Xr4LalK/nNmoa3ZSmyKkP8yNuMvYm+jDd35U6bxu/JfVqxjjfXHMUttfgCNwzgWOR5LHAvDssaan78LI2tUG9/iZ4rr+Kv+y8L+p6yx//k9bUdZtfKfU2MN36vXioSN+NvYv65j9uePDj6Mv8j+44j1ho01jExvaDzaXexJ/gtqrPn5SzTja/xMqTE38Y/zn237Yv8j9kNJqVr+c2qsPLlvGn+OSeyzmj+65D1+0/qu/LepB22GBihaDa0xsLccWgH9YtBGFojnblnyPyt8jZ8pruIf5z9T+zwn17L4PE7yeRXznzMNWlrQ/M8q/qbXbc+foo2/KP5zyfd5d0BB7EnmhvJ1f+ILvsXPFNfxV/1Xtfnn6/z5CpqedycIgnBKH6ivdD4Bz94lJX7+Et3JO/552ycIgqgy/aD+UDs0kZ69lSPv+OdtnyAIgiAIgiAIgiAIgiAIgiAIgiAIgvCDHwLGtkM/QTvo+2OiwKzH/N0HPcfxM1YvX+TcJ4IgCB85C62U3vk7cfwzrQGIgnAcc/UwdDGcsxtQ/gr9Bu2HDkAHw2v/oPwXumB5fs9He59Dx3F8AjrZw70j7JomiNyo4u8PmPIIz4k9eXdC4hy0Cn26H4of76L3f2bkHf8o+0X5/Z8oTmA8R6Bl4ZzdiHITtBnaAm2FtoXXrqC8Cv1neX4vQHtfBM3HKr3w+UiUn9g1b4yvv39Dv/9TDP+p9G9jbBLm+mAcf+TAnk36ou/92uLPTXkMv+xNYC/rc04X+vQglErW/sjbnmv7avxdo2P/De55C32IcW9JYcNl/p+EnaMJ3ufXcO//PdyfJv4zoFFB9+PRETbEWlteX/uQ/yqm8eeYxD7J/Cnj+E3r+/D+nQz7g1AOZG6f3yaIeHP/tbc1n9vgCfzyNNCzl/W54GFQXwN0KWsAF/6QcW0vD/ty/POglf1XuPYaegcNMBizq/w/BTvHEvjzOu69EXN/2vh3oL3OoPtxZ4SN89BqfL7bs/yXsRF//v9rROzT/v8anflT1vG78l/WiPWHWI9EIX9/dylC6nd2O6HTgX1xBkn9GhhxbmJfIP99sJW9rM8Fce9/nfq24qdrr0zxt+m/tPZlxPNR7H9Mofxv9v+aBPnlKv8FNuNvY+/Zav6Uefwu/Jcl6hombi0jf393OUJR39mdCexK0GrdmNa+jLxXyGvdr44n7v2vU99G/LL2v6/xt+U/E/sCnq983yNKvv9Ju/cQ7VH+N/v/R6Zvz1X+i3jZir+N/avO/Cnr+F35z5T37w7Qcg==
+  </data>
+ </layer>
+</map>
