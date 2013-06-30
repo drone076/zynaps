@@ -14,9 +14,14 @@ game.PlayerEntity = me.ObjectEntity.extend({
         this.parent(x, y, settings);
  
         // set the default horizontal & vertical speed (accel vector)
-        this.setVelocity(3, 1.5);
+        this.setVelocity(2, 1.5);
         this.gravity = 0;
- 
+
+        // adjust the bounding box
+        this.updateColRect(0, 16, -5, 16);
+
+        //me.debug.renderHitBox = true;
+
         // set the display to follow our position on both axis
         //me.game.viewport.follow(this.pos, me.game.viewport.AXIS.BOTH);
 
@@ -41,7 +46,7 @@ game.PlayerEntity = me.ObjectEntity.extend({
             this.vel.x = 0;
         }
 
-        this.pos.x += me.timer.tick;
+        this.pos.x += 0.5*me.timer.tick;
 
         if (me.input.isKeyPressed('up')) {
             // update the entity velocity
@@ -73,8 +78,6 @@ game.PlayerEntity = me.ObjectEntity.extend({
 });
 
 
-
-
 /*	Camera
 ============*/
 
@@ -86,7 +89,7 @@ game.cameraEntity = me.ObjectEntity.extend({
         me.game.viewport.follow(this.pos, me.game.viewport.AXIS.HORIZONTAL);
 
         this.gravity = 0;
-        this.vel.x = 1;
+        this.vel.x = 0.5*me.timer.tick;
     },
     update: function () {
         this.updateMovement();
